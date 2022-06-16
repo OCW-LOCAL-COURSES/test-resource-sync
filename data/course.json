@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-resource-sync"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-resource-sync"
+  },
+  "course_title": "testing bundle",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-resource-sync"
+  },
+  "learning_resource_types": [],
+  "site_uid": "ad1c199f-1bdb-4aa9-8b24-c62023e94e8f"
+}
